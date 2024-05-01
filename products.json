@@ -1,0 +1,214 @@
+{
+    "products": [
+        {
+            "product_id": "P001",
+            "product_name": "Áo thun nam",
+            "price": 15.99,
+            "quantity": 100,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P002",
+            "product_name": "Quần jeans nữ",
+            "price": 29.99,
+            "quantity": 50,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P003",
+            "product_name": "Giày thể thao unisex",
+            "price": 39.99,
+            "quantity": 80,
+            "category": "Giày dép"
+        },
+        {
+            "product_id": "P004",
+            "product_name": "Túi xách nữ",
+            "price": 25.99,
+            "quantity": 30,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P005",
+            "product_name": "Balo học sinh",
+            "price": 19.99,
+            "quantity": 60,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P006",
+            "product_name": "Đồng hồ nam",
+            "price": 49.99,
+            "quantity": 20,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P007",
+            "product_name": "Váy dạ hội",
+            "price": 59.99,
+            "quantity": 40,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P008",
+            "product_name": "Áo len nữ",
+            "price": 35.99,
+            "quantity": 70,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P009",
+            "product_name": "Áo khoác nam",
+            "price": 45.99,
+            "quantity": 25,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P010",
+            "product_name": "Quần short nữ",
+            "price": 22.99,
+            "quantity": 55,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P011",
+            "product_name": "Mũ lưỡi trai",
+            "price": 12.99,
+            "quantity": 90,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P012",
+            "product_name": "Áo sơ mi nam",
+            "price": 32.99,
+            "quantity": 65,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P013",
+            "product_name": "Giày cao gót nữ",
+            "price": 49.99,
+            "quantity": 35,
+            "category": "Giày dép"
+        },
+        {
+            "product_id": "P014",
+            "product_name": "Áo hoodie nam",
+            "price": 27.99,
+            "quantity": 75,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P015",
+            "product_name": "Quần áo thể thao nữ",
+            "price": 19.99,
+            "quantity": 45,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P016",
+            "product_name": "Bộ đồ đi biển",
+            "price": 39.99,
+            "quantity": 50,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P017",
+            "product_name": "Áo khoác nữ",
+            "price": 34.99,
+            "quantity": 60,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P018",
+            "product_name": "Quần dài nam",
+            "price": 29.99,
+            "quantity": 55,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P019",
+            "product_name": "Áo dài nữ",
+            "price": 42.99,
+            "quantity": 40,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P020",
+            "product_name": "Giày thể thao nam",
+            "price": 44.99,
+            "quantity": 30,
+            "category": "Giày dép"
+        },
+        {
+            "product_id": "P021",
+            "product_name": "Áo phông nữ",
+            "price": 17.99,
+            "quantity": 80,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P022",
+            "product_name": "Túi xách nam",
+            "price": 24.99,
+            "quantity": 35,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P023",
+            "product_name": "Quần kaki nam",
+            "price": 26.99,
+            "quantity": 70,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P024",
+            "product_name": "Áo khoác hoodie nữ",
+            "price": 29.99,
+            "quantity": 45,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P025",
+            "product_name": "Balo du lịch",
+            "price": 39.99,
+            "quantity": 50,
+            "category": "Phụ kiện"
+        },
+        {
+            "product_id": "P026",
+            "product_name": "Áo thun trắng",
+            "price": 14.99,
+            "quantity": 85,
+            "category": "Quần áo nam"
+        },
+        {
+            "product_id": "P027",
+            "product_name": "Quần legging nữ",
+            "price": 18.99,
+            "quantity": 65,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P028",
+            "product_name": "Áo sơ mi nữ",
+            "price": 28.99,
+            "quantity": 60,
+            "category": "Quần áo nữ"
+        },
+        {
+            "product_id": "P029",
+            "product_name": "Giày lười nam",
+            "price": 34.99,
+            "quantity": 40,
+            "category": "Giày dép"
+        },
+        {
+            "product_id": "P030",
+            "product_name": "Áo thun cổ tròn",
+            "price": 9.99,
+            "quantity": 40,
+            "category": "Quần áo nam"
+        }
+    ]
+}

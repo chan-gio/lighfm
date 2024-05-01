@@ -1,0 +1,395 @@
+{
+    "sales": [
+      {
+        "product_id": "P001",
+        "product_name": "Áo thun nam",
+        "price": 15.99,
+        "quantity": 3,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C001",
+          "customer_name": "Nguyễn Văn A",
+          "email": "nguyenvana@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P002",
+        "product_name": "Quần jeans nữ",
+        "price": 29.99,
+        "quantity": 2,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C002",
+          "customer_name": "Trần Thị B",
+          "email": "tranthib@example.com",
+          "phone": "0123456789"
+        }
+      },
+      {
+        "product_id": "P003",
+        "product_name": "Giày thể thao unisex",
+        "price": 39.99,
+        "quantity": 1,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C003",
+          "customer_name": "Phạm Văn C",
+          "email": "phamvanc@example.com",
+          "phone": "0369876543"
+        }
+      },
+      {
+        "product_id": "P004",
+        "product_name": "Áo sơ mi nam",
+        "price": 19.99,
+        "quantity": 4,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C004",
+          "customer_name": "Lê Thị D",
+          "email": "lethid@example.com",
+          "phone": "0789456123"
+        }
+      },
+      {
+        "product_id": "P005",
+        "product_name": "Áo khoác nữ",
+        "price": 49.99,
+        "quantity": 1,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C005",
+          "customer_name": "Hoàng Văn E",
+          "email": "hoangvane@example.com",
+          "phone": "0912345678"
+        }
+      },
+      {
+        "product_id": "P006",
+        "product_name": "Túi xách da",
+        "price": 34.99,
+        "quantity": 2,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C006",
+          "customer_name": "Trần Văn F",
+          "email": "tranvanf@example.com",
+          "phone": "0654321879"
+        }
+      },
+      {
+        "product_id": "P007",
+        "product_name": "Giày cao gót nữ",
+        "price": 59.99,
+        "quantity": 1,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C007",
+          "customer_name": "Nguyễn Thị G",
+          "email": "nguyenthig@example.com",
+          "phone": "0987123456"
+        }
+      },
+      {
+        "product_id": "P008",
+        "product_name": "Quần tây nam",
+        "price": 39.99,
+        "quantity": 3,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C008",
+          "customer_name": "Phan Văn H",
+          "email": "phanvanh@example.com",
+          "phone": "0543219876"
+        }
+      },
+      {
+        "product_id": "P009",
+        "product_name": "Áo len nữ",
+        "price": 25.99,
+        "quantity": 2,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C009",
+          "customer_name": "Vũ Thị I",
+          "email": "vuthii@example.com",
+          "phone": "0965432187"
+        }
+      },
+      {
+        "product_id": "P010",
+        "product_name": "Quần áo thể thao nam",
+        "price": 29.99,
+        "quantity": 2,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C010",
+          "customer_name": "Nguyễn Văn K",
+          "email": "nguyenvank@example.com",
+          "phone": "0897654321"
+        }
+      },
+      {
+        "product_id": "P011",
+        "product_name": "Váy đầm nữ",
+        "price": 45.99,
+        "quantity": 1,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C002",
+          "customer_name": "Trần Văn L",
+          "email": "tranvanl@example.com",
+          "phone": "0765432189"
+        }
+      },
+      {
+        "product_id": "P012",
+        "product_name": "Balo học sinh",
+        "price": 19.99,
+        "quantity": 5,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C002",
+          "customer_name": "Lê Thị M",
+          "email": "lethim@example.com",
+          "phone": "0976543218"
+        }
+      },
+      {
+        "product_id": "P013",
+        "product_name": "Áo khoác nam",
+        "price": 49.99,
+        "quantity": 2,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C010",
+          "customer_name": "Trần Thị N",
+          "email": "tranthin@example.com",
+          "phone": "0876543219"
+        }
+      },
+      {
+        "product_id": "P014",
+        "product_name": "Áo sơ mi nữ",
+        "price": 29.99,
+        "quantity": 3,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C010",
+          "customer_name": "Phạm Văn O",
+          "email": "phamvano@example.com",
+          "phone": "0654321987"
+        }
+      },
+      {
+        "product_id": "P015",
+        "product_name": "Giày thể thao nam",
+        "price": 39.99,
+        "quantity": 1,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C010",
+          "customer_name": "Vũ Thị P",
+          "email": "vuthip@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P016",
+        "product_name": "Bình nước thể thao",
+        "price": 9.99,
+        "quantity": 8,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C009",
+          "customer_name": "Nguyễn Văn Q",
+          "email": "nguyenvanq@example.com",
+          "phone": "0789123456"
+        }
+      },
+      {
+        "product_id": "P017",
+        "product_name": "Áo len nam",
+        "price": 25.99,
+        "quantity": 3,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C009",
+          "customer_name": "Trần Thị R",
+          "email": "tranthir@example.com",
+          "phone": "0654987321"
+        }
+      },
+      {
+        "product_id": "P018",
+        "product_name": "Quần legging nữ",
+        "price": 19.99,
+        "quantity": 4,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C009",
+          "customer_name": "Phạm Văn S",
+          "email": "phamvans@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P019",
+        "product_name": "Túi đeo chéo",
+        "price": 29.99,
+        "quantity": 2,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C002",
+          "customer_name": "Lê Thị T",
+          "email": "lethit@example.com",
+          "phone": "0789564321"
+        }
+      },
+      {
+        "product_id": "P020",
+        "product_name": "Áo thun nữ",
+        "price": 15.99,
+        "quantity": 5,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C008",
+          "customer_name": "Hoàng Văn U",
+          "email": "hoangvanu@example.com",
+          "phone": "0918765432"
+        }
+      },
+      {
+        "product_id": "P021",
+        "product_name": "Quần short nam",
+        "price": 24.99,
+        "quantity": 3,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C008",
+          "customer_name": "Trần Thị V",
+          "email": "tranthiv@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P022",
+        "product_name": "Áo khoác dù",
+        "price": 39.99,
+        "quantity": 1,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C008",
+          "customer_name": "Nguyễn Văn W",
+          "email": "nguyenvanw@example.com",
+          "phone": "0789213456"
+        }
+      },
+      {
+        "product_id": "P023",
+        "product_name": "Áo khoác jean",
+        "price": 45.99,
+        "quantity": 2,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C007",
+          "customer_name": "Trần Thị X",
+          "email": "tranthix@example.com",
+          "phone": "0654987321"
+        }
+      },
+      {
+        "product_id": "P024",
+        "product_name": "Áo phông nữ",
+        "price": 12.99,
+        "quantity": 6,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C007",
+          "customer_name": "Phạm Văn Y",
+          "email": "phamvany@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P025",
+        "product_name": "Áo khoác len nam",
+        "price": 35.99,
+        "quantity": 2,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C007",
+          "customer_name": "Vũ Thị Z",
+          "email": "vuthiz@example.com",
+          "phone": "0789564321"
+        }
+      },
+      {
+        "product_id": "P026",
+        "product_name": "Áo sơ mi nữ",
+        "price": 29.99,
+        "quantity": 3,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C005",
+          "customer_name": "Lê Thị X",
+          "email": "lethix@example.com",
+          "phone": "0918765432"
+        }
+      },
+      {
+        "product_id": "P027",
+        "product_name": "Quần short nữ",
+        "price": 19.99,
+        "quantity": 4,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C005",
+          "customer_name": "Hoàng Văn Y",
+          "email": "hoangvany@example.com",
+          "phone": "0987654321"
+        }
+      },
+      {
+        "product_id": "P028",
+        "product_name": "Giày bốt nữ",
+        "price": 59.99,
+        "quantity": 1,
+        "date_sold": "2024-04-27",
+        "customer": {
+          "customer_id": "C005",
+          "customer_name": "Trần Thị W",
+          "email": "tranthiw@example.com",
+          "phone": "0789213456"
+        }
+      },
+      {
+        "product_id": "P029",
+        "product_name": "Áo khoác gió",
+        "price": 45.99,
+        "quantity": 2,
+        "date_sold": "2024-04-26",
+        "customer": {
+          "customer_id": "C003",
+          "customer_name": "Nguyễn Văn X",
+          "email": "nguyenvanx@example.com",
+          "phone": "0654987321"
+        }
+      },
+      {
+        "product_id": "P030",
+        "product_name": "Áo thun cổ tròn",
+        "price": 9.99,
+        "quantity": 6,
+        "date_sold": "2024-04-25",
+        "customer": {
+          "customer_id": "C003",
+          "customer_name": "Phan Văn Z",
+          "email": "phanvanz@example.com",
+          "phone": "0987654321"
+        }
+      }
+    ]
+  }
+  

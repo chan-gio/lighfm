@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "user_id": "C001",
+            "user_name": "Nguyễn Văn A",
+            "email": "nguyenvana@example.com",
+            "phone": "0987654321"
+        },
+        {
+            "user_id": "C002",
+            "user_name": "Trần Thị B",
+            "email": "tranthib@example.com",
+            "phone": "0123456789"
+        },
+        {
+            "user_id": "C003",
+            "user_name": "Phạm Văn C",
+            "email": "phamvanc@example.com",
+            "phone": "0369876543"
+        },
+        {
+            "user_id": "C004",
+            "user_name": "Lê Thị D",
+            "email": "lethid@example.com",
+            "phone": "0789456123"
+        },
+        {
+            "user_id": "C005",
+            "user_name": "Hoàng Văn E",
+            "email": "hoangvane@example.com",
+            "phone": "0912345678"
+        },
+        {
+            "user_id": "C006",
+            "user_name": "Trần Văn F",
+            "email": "tranvanf@example.com",
+            "phone": "0654321879"
+        },
+        {
+            "user_id": "C007",
+            "user_name": "Nguyễn Thị G",
+            "email": "nguyenthig@example.com",
+            "phone": "0987123456"
+        },
+        {
+            "user_id": "C008",
+            "user_name": "Phan Văn H",
+            "email": "phanvanh@example.com",
+            "phone": "0543219876"
+        },
+        {
+            "user_id": "C009",
+            "user_name": "Vũ Thị I",
+            "email": "vuthii@example.com",
+            "phone": "0965432187"
+        },
+        {
+            "user_id": "C010",
+            "user_name": "Nguyễn Văn K",
+            "email": "nguyenvank@example.com",
+            "phone": "0897654321"
+        }
+    ]
+}
